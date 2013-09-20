@@ -1,0 +1,9 @@
+﻿<Window x:Class="数据绑定.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="绑定数据listbox" Height="340" Width="520">
+    <Grid Margin="10,0,314,80" Loaded="Grid_Loaded_1">
+        <ListBox x:Name="listbox" DisplayMemberPath="Name" HorizontalAlignment="Left" Margin="25,19,0,30" Width="127" SelectionChanged="ListBox_SelectionChanged_1"/>
+
+    </Grid>
+</Window>

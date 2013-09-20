@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据绑定", "数据绑定\数据绑定.csproj", "{2785A48E-8445-4067-BA08-D36B46359F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据库的交互", "数据库的交互\数据库的交互.csproj", "{CC3044E1-8445-4F10-9907-ABE11C954CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "省市联动", "省市联动\省市联动.csproj", "{9C79ED33-DB95-4594-916F-8629CBDA763D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登录判断", "登录判断\登录判断.csproj", "{6A8F8FD2-7A9D-472C-B16E-949B3394EF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据导入", "数据导入\数据导入.csproj", "{A84D040D-4BC2-4B6F-A4D1-7A7888E144D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRSys", "HRSys\HRSys.csproj", "{4B89784B-65F9-4FC5-AC99-D69DE2DE531A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2785A48E-8445-4067-BA08-D36B46359F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2785A48E-8445-4067-BA08-D36B46359F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2785A48E-8445-4067-BA08-D36B46359F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2785A48E-8445-4067-BA08-D36B46359F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3044E1-8445-4F10-9907-ABE11C954CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3044E1-8445-4F10-9907-ABE11C954CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3044E1-8445-4F10-9907-ABE11C954CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3044E1-8445-4F10-9907-ABE11C954CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C79ED33-DB95-4594-916F-8629CBDA763D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C79ED33-DB95-4594-916F-8629CBDA763D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C79ED33-DB95-4594-916F-8629CBDA763D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C79ED33-DB95-4594-916F-8629CBDA763D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8F8FD2-7A9D-472C-B16E-949B3394EF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8F8FD2-7A9D-472C-B16E-949B3394EF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8F8FD2-7A9D-472C-B16E-949B3394EF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8F8FD2-7A9D-472C-B16E-949B3394EF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84D040D-4BC2-4B6F-A4D1-7A7888E144D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84D040D-4BC2-4B6F-A4D1-7A7888E144D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84D040D-4BC2-4B6F-A4D1-7A7888E144D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84D040D-4BC2-4B6F-A4D1-7A7888E144D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B89784B-65F9-4FC5-AC99-D69DE2DE531A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B89784B-65F9-4FC5-AC99-D69DE2DE531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B89784B-65F9-4FC5-AC99-D69DE2DE531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B89784B-65F9-4FC5-AC99-D69DE2DE531A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
